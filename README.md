@@ -7,4 +7,4 @@ VFS in a single file implemented in Go
 `hubertfs` is a single file VFS. It should be reliable, secure and portable. Kind of like Coloner Gruber's little tank, which was coincidentally named `Hubert`.
 
 ### Implementation
-Coming soon
+Write bytes anywhere in a file: [os.File - ReadAt](https://golang.org/pkg/os/#File.ReadAt)
